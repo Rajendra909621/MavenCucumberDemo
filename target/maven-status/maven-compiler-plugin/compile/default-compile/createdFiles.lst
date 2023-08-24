@@ -1,0 +1,3 @@
+com\nopCommerce\PageObject\AddCustomerPage.class
+com\nopCommerce\PageObject\AdminPage.class
+com\nopCommerce\PageObject\RequestToPay.class
